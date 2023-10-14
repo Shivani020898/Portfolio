@@ -22,7 +22,7 @@ export const ProjectList = [
     demo_url: "https://github.com/Shivani020898/Frontend60-Project",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "https://github.com/Shivani020898/Portfolio/raw/master/public/portfolio-ss.png",
     title: "Portfolio",
     description: "Ofcourse i made my own personal portfolio website.",
     tech_stack: "Reactjs,CSS",
