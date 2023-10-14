@@ -3,9 +3,12 @@ Live Preview - [Click Here](https://gurusheshp.vercel.app/)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/mockup.png" />
+  <img alt="Demo" src="public/portfolio-ss.png" />
 </div>
 <br/>
+<div align="center">
+  <img alt="Demo" src="public/mb-ss.png" />
+</div>
 <br/>
 
 # 🛠 Installation and Setup Instructions
