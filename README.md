@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](https://gurusheshp.vercel.app/)
+Live Preview - [Click Here](https://652a48b851d6bb07cd88d62a--scintillating-platypus-74d66c.netlify.app/)
 
 <br/>
 <div align="center">

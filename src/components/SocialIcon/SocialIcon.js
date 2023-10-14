@@ -53,15 +53,6 @@ function SocialIcon() {
             <FaGithub />
           </a>
         </li>
-        <li className="item">
-          <a
-            href="https://github.com/your_username/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-           
-          </a>
-        </li>
       </ul>
     </SocialDiv>
   );
