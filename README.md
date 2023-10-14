@@ -3,7 +3,7 @@ Live Preview - [Click Here](https://652a4e12ee71d60b22c7d89a--scintillating-plat
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/portfolio-ss.png" />
+  <img alt="ss" src="public/portfolio-ss.png" />
 </div>
 <br/>
 <div align="center">
