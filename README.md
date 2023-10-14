@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](https://652a4e12ee71d60b22c7d89a--scintillating-platypus-74d66c.netlify.app/)
+Live Preview - [Click Here](https://652aecad5b675c6a309c21f5--scintillating-platypus-74d66c.netlify.app/)
 
 <br/>
 <div align="center">
